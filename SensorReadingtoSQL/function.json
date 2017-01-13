@@ -5,7 +5,7 @@
             "type": "eventHubTrigger",
             "name": "myEventHubMessage",
             "direction": "in",
-            "path": "iothubname",
+            "path": "aegexiothub",
             "connection": "iothubconnection"
         }
     ]
